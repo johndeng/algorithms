@@ -1,2 +1,4 @@
-# algorithms
-Algorithms implementation
+Algorithms
+===
+
+Golang implementation of algorithms.
